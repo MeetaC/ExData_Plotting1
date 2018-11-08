@@ -1,4 +1,4 @@
-setwd("C:/Meeta Skill Enhancement/Data Science Specialization/Course 4- Exploratory Data Analysis/Week 1/Project")
+setwd("C:/xxxxxxxxxxxxx/Data Science Specialization/Course 4- Exploratory Data Analysis/Week 1/Project")
 dir.create("Data")
 dir.exists("./Data")
 
